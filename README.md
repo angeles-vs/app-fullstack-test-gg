@@ -16,4 +16,4 @@ _Esta App consiste en un formulario para agregar personas, con un listado poster
 # Autora 🖌️
 
 Angeles Viña 
-https://github.com/angelessevilla
+https://github.com/angeles-vs
